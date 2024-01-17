@@ -76,6 +76,6 @@ SUNY Jefferson (High School, 1st, and 2nd Year):
 * GEO 110 - Earth Sciences
 
 SUNY Oswego (3rd and 4th Year):
-CHE 111 - General Chemistry I
-CHE 212 - General Chemistry II
+* CHE 111 - General Chemistry I
+* CHE 212 - General Chemistry II
 
