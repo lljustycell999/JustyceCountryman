@@ -14,6 +14,7 @@ My positive mindset will definently be put to the test in my CSC 380 - Software 
 ## **About This Website**
 This website will contain 3 primary items: All of the college level courses I have taken, links to a variety of programming projects I have completed, and my resume. I will also post some mathematical work I have done in classes that connect greatly with computer science, including discrete math, differential equations, number theory, and others.
 
+## ** Courses Taken**
 
 
 
