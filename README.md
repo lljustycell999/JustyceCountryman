@@ -14,8 +14,68 @@ My positive mindset will definently be put to the test in my CSC 380 - Software 
 ## **About This Website**
 This website will contain 3 primary items: All of the college level courses I have taken, links to a variety of programming projects I have completed, and my resume. I will also post some mathematical work I have done in classes that connect greatly with computer science, including discrete math, differential equations, number theory, and others.
 
-## ** Courses Taken**
+# Courses Completed
 
+## **Computer Science**
 
+SUNY Jefferson (1st and 2nd Year):
+* NET 100 - Networking Fundamentals
+* CIS 111 - Operating System Environments
+* CIS 116 - Introductory Programming
+* CIS 212 - Analysis and Logical Design
+* CIS 216 - Advanced Programming
+* CIS 221 - Computer Architecture
+* CIS 225 - Assembly Language
+* CIS 250 - Data Structures
 
+SUNY Oswego (3rd and 4th Year):
+* CSC 221 - Foundations of Computer Science
+* ISC 300 - Ethics and Social Policy in the Digital Age
+* CSC 320 - Numerical Methods (In-progress)
+* CSC 322 - Systems Programming
+* CSC 333 - Privacy/Security/Cryptography
+* CSC 344 - Programming Languages
+* CSC 350 - Computational Linguistics (In-progress)
+* CSC 365 - Data Structures and Algorithms
+* CSC 366 - Computational Models
+* CSC 375 - Parallel Programming
+* CSC 380 - Software Engineering (In-progress)
+* CSC 470 - Computer Graphics
+* CSC 474 - Image Processing (In-progress)
+
+## **Mathematics**
+
+SUNY Jefferson (High School, 1st, and 2nd Year):
+* MTH 185 - Precalculus
+* MTH 221 - Calculus 1
+* MTH 222 - Calculus 2
+* MTH 241 - Calculus 3
+* MTH 242 - Differential Equations
+
+SUNY Oswego (3rd and 4th Year):
+MAT 215 - Discrete Math
+MAT 230 - Matrix Algebra
+MAT 318 - Statistics in the Sciences
+MAT 373 - Number Theory (In-progress)
+
+## **Other Courses**
+SUNY Jefferson (High School, 1st, and 2nd Year):
+
+* ENG 101 - Research and Composition
+* ENG 102 - Literature and Composition
+* SPA 221 - Intermediate Spanish 1
+* SPA 222 - Intermediate Spanish 2
+* SOC 144 - Introduction to Sociology
+* PED 180 - Wellness
+* PED 184 - Power Walking
+* HIS 151 - American History 1877 to Present
+* INT 250 - Honors Seminar
+* PHY 143 - Science and Engineering Physics 1
+* STA 151 - Public Speaking
+* STA 161 - Interpersonal Communication
+* GEO 110 - Earth Sciences
+
+SUNY Oswego (3rd and 4th Year):
+CHE 111 - General Chemistry I
+CHE 212 - General Chemistry II
 
