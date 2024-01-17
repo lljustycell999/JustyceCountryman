@@ -53,10 +53,10 @@ SUNY Jefferson (High School, 1st, and 2nd Year):
 * MTH 242 - Differential Equations
 
 SUNY Oswego (3rd and 4th Year):
-MAT 215 - Discrete Math
-MAT 230 - Matrix Algebra
-MAT 318 - Statistics in the Sciences
-MAT 373 - Number Theory (In-progress)
+* MAT 215 - Discrete Math
+* MAT 230 - Matrix Algebra
+* MAT 318 - Statistics in the Sciences
+* MAT 373 - Number Theory (In-progress)
 
 ## **Other Courses**
 SUNY Jefferson (High School, 1st, and 2nd Year):
