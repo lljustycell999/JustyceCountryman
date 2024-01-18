@@ -24,24 +24,24 @@ SUNY Jefferson (1st and 2nd Year):
 * CIS 111 - Operating System Environments
 * CIS 116 - Introductory Programming
 * CIS 212 - Analysis and Logical Design
-* CIS 216 - Advanced Programming
+* [CIS 216 - Advanced Programming](https://github.com/lljustycell999/CSC216)
 * CIS 221 - Computer Architecture
-* CIS 225 - Assembly Language
-* CIS 250 - Data Structures
+* [CIS 225 - Assembly Language](https://github.com/lljustycell999/CIS225)
+* [CIS 250 - Data Structures](https://github.com/lljustycell999/CIS250)
 
 SUNY Oswego (3rd and 4th Year):
-* CSC 221 - Foundations of Computer Science
+* [CSC 221 - Foundations of Computer Science](https://github.com/lljustycell999/CSC221)
 * ISC 300 - Ethics and Social Policy in the Digital Age
 * CSC 320 - Numerical Methods (In-progress)
-* CSC 322 - Systems Programming
+* [CSC 322 - Systems Programming](https://github.com/lljustycell999/CSC322)
 * CSC 333 - Privacy/Security/Cryptography
-* CSC 344 - Programming Languages
+* [CSC 344 - Programming Languages](https://github.com/lljustycell999/CSC344)
 * CSC 350 - Computational Linguistics (In-progress)
-* CSC 365 - Data Structures and Algorithms
+* [CSC 365 - Data Structures and Algorithms](https://github.com/lljustycell999/CSC365)
 * CSC 366 - Computational Models
-* CSC 375 - Parallel Programming
+* [CSC 375 - Parallel Programming](https://github.com/lljustycell999/CSC375)
 * CSC 380 - Software Engineering (In-progress)
-* CSC 470 - Computer Graphics
+* [CSC 470 - Computer Graphics](https://github.com/lljustycell999/CSC470)
 * CSC 474 - Image Processing (In-progress)
 
 ## **Mathematics**
