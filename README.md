@@ -22,7 +22,7 @@ This website will contain 3 primary items: All of the college level courses I ha
 SUNY Jefferson (1st and 2nd Year):
 * NET 100 - Networking Fundamentals
 * CIS 111 - Operating System Environments
-* CIS 116 - Introductory Programming
+* [CIS 116 - Introductory Programming](https://github.com/lljustycell999/CIS116)
 * CIS 212 - Analysis and Logical Design
 * [CIS 216 - Advanced Programming](https://github.com/lljustycell999/CSC216)
 * CIS 221 - Computer Architecture
