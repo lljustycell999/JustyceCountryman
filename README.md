@@ -1,10 +1,13 @@
 # Welcome to Justyce's Countryman's Computer Science and Mathematics Portfolio!
 
+[Resume](https://docs.google.com/document/d/1v3P51Z684UccbyDN7NE42kPpWqutmto9dChGMWMaGGg/edit?usp=share_link)
+
 ## **About Me**
 
 Github Profile: [lljustycell999](https://github.com/lljustycell999?tab=overview&from=2024-01-01&to=2024-01-16)
 
 Linkedin Profile: In Progress...
+
 
 Hello! Welcome to my webpage. Just as a brief introduction, I am currently in my fourth and final semester at SUNY Oswego after transferring from SUNY Jefferson in Watertown, NY. I am majoring in Computer Science and minoring in Mathematics. When I am not studying, I like to spend a good amount of time spoiling my grandma as my way of paying her back for all the spoiling she has done for me over the years. I also enjoy hanging out with my friends, learning new programming languages, and conquering new academic challenges. 
 
