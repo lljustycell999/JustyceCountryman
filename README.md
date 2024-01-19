@@ -13,7 +13,7 @@ I also appreciate and enjoy any chance of becoming an exceptional team player, a
 My positive mindset will definently be put to the test in my CSC 380 - Software Engineering course that I am taking this semester because it simulates a real-world team-based programming project, where everyone needs to do their part in making something that we can all be proud of. I hope this class will also be a chance to improve my leadership skills by ensuring my teammates stay on track to complete the project with distinction, while also encouraging them to maintain a advantageous mindset similar to mine. I will post progress in the project throughout the semester on my Github profile.
 
 ## **About This Website**
-This website will contain 3 primary items: All of the college level courses I have taken, links to a variety of programming projects I have completed, and my resume. I will also post some mathematical work I have done in classes that connect greatly with computer science, including discrete math, differential equations, number theory, and others.
+This website will contain 3 primary items: All of the college level courses I have taken, links to a variety of programming projects I have completed, and my resume. I will also post some mathematical work I have done in classes that connect greatly with computer science, including discrete math, number theory, and others.
 
 # Courses Completed
 
