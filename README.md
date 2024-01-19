@@ -6,6 +6,8 @@
 
 [Linkedin Profile](https://www.linkedin.com/in/justyce-countryman-391b40294/)
 
+CV: Currently in construction...
+
 ## **About Me**
 
 Hello! Welcome to my webpage. I am currently in my fourth and final semester at SUNY Oswego after transferring from SUNY Jefferson in Watertown, NY. I am majoring in Computer Science and minoring in Mathematics. When I am not studying, I like to spend a good amount of time spoiling my grandma as my way of paying her back for all the spoiling she has done for me over the years. I also enjoy hanging out with my friends, turning my room into a finding new ways to relax, tracking severe weather, learning new programming languages, and conquering new academic challenges. 
