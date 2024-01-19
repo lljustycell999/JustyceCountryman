@@ -1,6 +1,8 @@
 # Welcome to Justyce's Countryman's Computer Science and Mathematics Portfolio!
 
-[Resume](https://drive.google.com/file/d/103obEk-smNX__88dKaeuNk6N4nYPzSM-/view?usp=share_link)     
+[Resume](https://docs.google.com/document/d/1v3P51Z684UccbyDN7NE42kPpWqutmto9dChGMWMaGGg/edit?usp=sharing)
+
+[CV](https://docs.google.com/document/d/1QiroGywNCnaqXj5p5W73Y8OlOIe9l6nhEWJdyJeMvpU/edit?usp=sharing)
 
 [Github Profile](https://github.com/lljustycell999?tab=overview&from=2024-01-01&to=2024-01-16)      
 
