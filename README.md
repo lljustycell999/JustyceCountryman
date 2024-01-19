@@ -1,8 +1,6 @@
 # Welcome to Justyce's Countryman's Computer Science and Mathematics Portfolio!
 
-[Resume](https://drive.google.com/file/d/103obEk-smNX__88dKaeuNk6N4nYPzSM-/view?usp=share_link)
-[Github Profile](https://github.com/lljustycell999?tab=overview&from=2024-01-01&to=2024-01-16)
-[Linkedin Profile](https://www.linkedin.com/in/justyce-countryman-391b40294/)
+[Resume](https://drive.google.com/file/d/103obEk-smNX__88dKaeuNk6N4nYPzSM-/view?usp=share_link)     [Github Profile](https://github.com/lljustycell999?tab=overview&from=2024-01-01&to=2024-01-16)      [Linkedin Profile](https://www.linkedin.com/in/justyce-countryman-391b40294/)
 
 ## **About Me**
 
