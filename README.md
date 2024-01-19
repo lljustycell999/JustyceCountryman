@@ -1,6 +1,6 @@
 # Welcome to Justyce's Countryman's Computer Science and Mathematics Portfolio!
 
-[Resume](https://docs.google.com/document/d/1v3P51Z684UccbyDN7NE42kPpWqutmto9dChGMWMaGGg/edit?usp=share_link)
+[Resume](https://drive.google.com/file/d/103obEk-smNX__88dKaeuNk6N4nYPzSM-/view?usp=share_link)
 
 ## **About Me**
 
