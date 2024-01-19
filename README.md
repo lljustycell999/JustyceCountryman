@@ -20,12 +20,12 @@ This website will contain 3 primary items: All of the college level courses I ha
 ## **Computer Science**
 
 SUNY Jefferson (1st and 2nd Year):
-* NET 100 - Networking Fundamentals
-* CIS 111 - Operating System Environments
+* [NET 100 - Networking Fundamentals](https://github.com/lljustycell999/NET100)
+* [CIS 111 - Operating System Environments](https://github.com/lljustycell999/CIS111)
 * [CIS 116 - Introductory Programming](https://github.com/lljustycell999/CIS116)
-* CIS 212 - Analysis and Logical Design
+* [CIS 212 - Analysis and Logical Design](https://github.com/lljustycell999/CIS212)
 * [CIS 216 - Advanced Programming](https://github.com/lljustycell999/CSC216)
-* CIS 221 - Computer Architecture
+* [CIS 221 - Computer Architecture](https://github.com/lljustycell999/CIS221)
 * [CIS 225 - Assembly Language](https://github.com/lljustycell999/CIS225)
 * [CIS 250 - Data Structures](https://github.com/lljustycell999/CIS250)
 
@@ -34,7 +34,7 @@ SUNY Oswego (3rd and 4th Year):
 * ISC 300 - Ethics and Social Policy in the Digital Age
 * CSC 320 - Numerical Methods (In-progress)
 * [CSC 322 - Systems Programming](https://github.com/lljustycell999/CSC322)
-* CSC 333 - Privacy/Security/Cryptography
+* [CSC 333 - Privacy/Security/Cryptography](https://github.com/lljustycell999/CIS333)
 * [CSC 344 - Programming Languages](https://github.com/lljustycell999/CSC344)
 * CSC 350 - Computational Linguistics (In-progress)
 * [CSC 365 - Data Structures and Algorithms](https://github.com/lljustycell999/CSC365)
@@ -54,9 +54,9 @@ SUNY Jefferson (High School, 1st, and 2nd Year):
 * MTH 242 - Differential Equations
 
 SUNY Oswego (3rd and 4th Year):
-* MAT 215 - Discrete Math
+* [MAT 215 - Discrete Math](https://github.com/lljustycell999/MAT215)
 * MAT 230 - Matrix Algebra
-* MAT 318 - Statistics in the Sciences
+* [MAT 318 - Statistics in the Sciences](https://github.com/lljustycell999/MAT318)
 * MAT 373 - Number Theory (In-progress)
 
 ## **Other Courses**
