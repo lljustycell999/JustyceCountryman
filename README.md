@@ -43,7 +43,7 @@ SUNY Oswego (3rd and 4th Year):
 * [CSC 344 - Programming Languages](https://github.com/lljustycell999/CSC344)
 * CSC 350 - Computational Linguistics (In-progress)
 * [CSC 365 - Data Structures and Algorithms](https://github.com/lljustycell999/CSC365)
-* CSC 366 - Computational Models
+* [CSC 366 - Computational Models](https://github.com/lljustycell999/CSC366)
 * [CSC 375 - Parallel Programming](https://github.com/lljustycell999/CSC375)
 * CSC 380 - Software Engineering (In-progress)
 * [CSC 470 - Computer Graphics](https://github.com/lljustycell999/CSC470)
