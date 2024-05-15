@@ -1,11 +1,9 @@
-/* Reset default browser styles */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-/* Apply styles to header */
 header {
     background-color: #333;
     color: #fff;
@@ -13,7 +11,15 @@ header {
     text-align: center;
 }
 
-/* Apply styles to navigation bar */
+
+body {
+    background-color: #f2e9dd;
+}
+
+.circular-image {
+    border-radius: 50%;
+}
+
 nav {
     background-color: #666;
     padding: 10px;
@@ -35,20 +41,17 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: #ffd700; /* Change color on hover */
+    color: #ffd700;
 }
 
-/* Apply styles to main content */
 .content {
     padding: 20px;
 }
 
-/* Apply styles to sections */
 section {
     margin-bottom: 30px;
 }
 
-/* Apply styles to footer */
 footer {
     background-color: #333;
     color: #fff;
@@ -60,5 +63,36 @@ footer {
 }
 
 .indent {
-    padding-left: 20px; /* Adjust the indentation as needed */
+    padding-left: 20px;
+}
+
+.indentAgain {
+    padding-left: 20px;
+}
+
+.legend{
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.legend-item{
+    width: 100px;
+    height: 20px;
+    border: 1px solid #000;
+}
+
+.expert{
+    background-color: green;
+}
+
+.proficient{
+    background-color: yellow;
+}
+
+.intermediate{
+    background-color: orange;
+}
+
+.beginner{
+    background-color: red;
 }
